@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "src",
+    "esModuleInterop": true,
+    "lib": ["esnext", "dom"],
+    "strict": true,
+  },
+  "include": ["src/**/*"],
+  "exclude": [
+    "test/*.test.js",
+   ]
+}
